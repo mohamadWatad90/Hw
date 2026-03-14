@@ -21,7 +21,7 @@ namespace Q5
                 if(i%2==0)//اذا كان العدد زوجي
                    //Console.Write(i + " ");
                     Console.Write("{0,3}",i);
-                //
+                
             }
 
             Console.ReadKey();
