@@ -22,7 +22,7 @@ namespace Q7
             shortest = 1;
 
 
-            for (int i = 2; i <= 10; i++)
+            for (int i = 2; i <= 100; i++)
             {
                 Console.Write("Enter duration for song number "+i+":");
                 time = double.Parse(Console.ReadLine());//بالدقائق
